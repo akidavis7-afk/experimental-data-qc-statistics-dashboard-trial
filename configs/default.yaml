@@ -1,0 +1,5 @@
+app_title: Experimental Data QC & Statistics Dashboard
+group_column: treatment
+value_columns: [response]
+replicate_column: replicate
+id_columns: [sample_id]

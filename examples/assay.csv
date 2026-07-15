@@ -1,0 +1,6 @@
+sample_id,replicate,treatment,response
+S1,1,control,1.1
+S2,2,control,1.4
+S3,1,treated,2.8
+S4,2,treated,3.0
+S5,3,treated,9.5
