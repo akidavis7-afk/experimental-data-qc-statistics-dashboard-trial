@@ -2,6 +2,8 @@
 
 A configurable workflow for plate assays, qPCR, growth curves and treatment comparisons.
 
+[Click here to view the Live Interactive Web App Demo](https://experimental-data-qc-statistics-dashboard-trial-ebwmuzn8xcbhl2.streamlit.app/)
+
 ## Features
 
 - CSV/XLSX input
